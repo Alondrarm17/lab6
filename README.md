@@ -1,1 +1,1 @@
-# lab6
+This is my lab assigment 6 for the Computer science class. 
